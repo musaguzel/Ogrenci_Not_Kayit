@@ -1,0 +1,16 @@
+C:\Users\musa1\Desktop\Udemy Projeler\NotKayıtProje\NotKayıtProje\bin\Debug\NotKayıtProje.exe.config
+C:\Users\musa1\Desktop\Udemy Projeler\NotKayıtProje\NotKayıtProje\bin\Debug\NotKayıtProje.exe
+C:\Users\musa1\Desktop\Udemy Projeler\NotKayıtProje\NotKayıtProje\bin\Debug\NotKayıtProje.pdb
+C:\Users\musa1\Desktop\Udemy Projeler\NotKayıtProje\NotKayıtProje\obj\Debug\NotKayıtProje.csprojAssemblyReference.cache
+C:\Users\musa1\Desktop\Udemy Projeler\NotKayıtProje\NotKayıtProje\obj\Debug\NotKayıtProje.Form1.resources
+C:\Users\musa1\Desktop\Udemy Projeler\NotKayıtProje\NotKayıtProje\obj\Debug\NotKayıtProje.Properties.Resources.resources
+C:\Users\musa1\Desktop\Udemy Projeler\NotKayıtProje\NotKayıtProje\obj\Debug\NotKayıtProje.csproj.GenerateResource.cache
+C:\Users\musa1\Desktop\Udemy Projeler\NotKayıtProje\NotKayıtProje\obj\Debug\NotKayıtProje.csproj.CoreCompileInputs.cache
+C:\Users\musa1\Desktop\Udemy Projeler\NotKayıtProje\NotKayıtProje\obj\Debug\NotKayıtProje.exe
+C:\Users\musa1\Desktop\Udemy Projeler\NotKayıtProje\NotKayıtProje\obj\Debug\NotKayıtProje.pdb
+C:\Users\musa1\Desktop\Udemy Projeler\NotKayıtProje\NotKayıtProje\obj\Debug\NotKayıtProje.FrmOgrenciNotlar.resources
+C:\Users\musa1\Desktop\Udemy Projeler\NotKayıtProje\NotKayıtProje\obj\Debug\NotKayıtProje.FrmOgretmen.resources
+C:\Users\musa1\Desktop\Udemy Projeler\NotKayıtProje\NotKayıtProje\obj\Debug\NotKayıtProje.FrmKulupler.resources
+C:\Users\musa1\Desktop\Udemy Projeler\NotKayıtProje\NotKayıtProje\obj\Debug\NotKayıtProje.FrmDersler.resources
+C:\Users\musa1\Desktop\Udemy Projeler\NotKayıtProje\NotKayıtProje\obj\Debug\NotKayıtProje.FrmOgrenci.resources
+C:\Users\musa1\Desktop\Udemy Projeler\NotKayıtProje\NotKayıtProje\obj\Debug\NotKayıtProje.FrmSınavNotlar.resources
